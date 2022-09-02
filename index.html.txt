@@ -1,0 +1,5 @@
+my name is siva
+
+
+ git config --global user.email "you@sivaaravind262003
+  git config --global user.name "sivaaravindh
